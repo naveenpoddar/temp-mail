@@ -6,7 +6,7 @@ const https = require('https');
  * @type {string}
  * @const
  */
-const API_URL = 'https://privatix-temp-mail-v1.p.rapidapi.com';
+const API_URL = 'https://api.mail.tm/';
 
 /**
  * Makes GET request
